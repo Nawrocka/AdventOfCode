@@ -1,0 +1,25 @@
+D:\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+D:\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe
+D:\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
+D:\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csprojResolveAssemblyReference.cache
+D:\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
+D:\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
+C:\Users\Maria_Pc\Desktop\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+C:\Users\Maria_Pc\Desktop\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
+C:\Users\Maria_Pc\Desktop\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
+C:\Users\Maria_Pc\Desktop\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe
+C:\Users\Maria_Pc\Desktop\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
+C:\Users\Maria_Pc\Desktop\Projects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csprojResolveAssemblyReference.cache
+D:\UpdateProjects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+D:\UpdateProjects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
+D:\UpdateProjects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
+D:\UpdateProjects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe
+D:\UpdateProjects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
+D:\UpdateProjects\Visual C#\C# Academy\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Downloads\AdventOfCode-master\AdventOfCode-master\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+C:\Users\Maria\Downloads\AdventOfCode-master\AdventOfCode-master\AdventOfCode\bin\Debug\AdventOfCode.exe
+C:\Users\Maria\Downloads\AdventOfCode-master\AdventOfCode-master\AdventOfCode\bin\Debug\AdventOfCode.pdb
+C:\Users\Maria\Downloads\AdventOfCode-master\AdventOfCode-master\AdventOfCode\obj\Debug\AdventOfCode.csprojAssemblyReference.cache
+C:\Users\Maria\Downloads\AdventOfCode-master\AdventOfCode-master\AdventOfCode\obj\Debug\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\AdventOfCode-master\AdventOfCode-master\AdventOfCode\obj\Debug\AdventOfCode.exe
+C:\Users\Maria\Downloads\AdventOfCode-master\AdventOfCode-master\AdventOfCode\obj\Debug\AdventOfCode.pdb
